@@ -1,0 +1,11 @@
+F:\Remote Flight Controller\Remote Flight Controller\bin\Debug\Remote Flight Controller.exe.config
+F:\Remote Flight Controller\Remote Flight Controller\bin\Debug\Remote Flight Controller.exe
+F:\Remote Flight Controller\Remote Flight Controller\bin\Debug\Remote Flight Controller.pdb
+F:\Remote Flight Controller\Remote Flight Controller\obj\Debug\Remote Flight Controller.csprojResolveAssemblyReference.cache
+F:\Remote Flight Controller\Remote Flight Controller\obj\Debug\Remote_Flight_Controller.Properties.Resources.resources
+F:\Remote Flight Controller\Remote Flight Controller\obj\Debug\Remote Flight Controller.csproj.GenerateResource.Cache
+F:\Remote Flight Controller\Remote Flight Controller\obj\Debug\Remote Flight Controller.exe
+F:\Remote Flight Controller\Remote Flight Controller\obj\Debug\Remote Flight Controller.pdb
+F:\Remote Flight Controller\Remote Flight Controller\obj\Debug\Remote_Flight_Controller.RemoteFlightController.resources
+F:\Remote Flight Controller\Remote Flight Controller\bin\Debug\Newtonsoft.Json.dll
+F:\Remote Flight Controller\Remote Flight Controller\bin\Debug\Newtonsoft.Json.xml
